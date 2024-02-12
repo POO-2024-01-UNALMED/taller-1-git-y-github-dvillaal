@@ -1,3 +1,6 @@
-David Villa Aklzate
+David Villa Alzate
 18 años
 Aprender los fundamentos del paradigma de la programación orientada a objetos para así en un futuro ser un buen programador y ser contratado por una empresa.
+Porque la carpeta ya no está vacía y ya representaría un cambio en el repositorio y por lo tanto se puede hacer un commit.
+
+Porque se generan conflictos entre estos archivos.

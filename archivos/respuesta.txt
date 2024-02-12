@@ -1,0 +1,1 @@
+No es posible hacer un commit ya que la carpeta archivos estaba vacía y por lo tanto se consideran como cambios o adicones al proyecto.
